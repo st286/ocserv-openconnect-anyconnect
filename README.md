@@ -32,7 +32,7 @@ ocserv version: 0.12.3
 
 **for macOS:**
 
->  brew install openconnect
+>  brew cask install openconnect-gui
 
 **for other OS also see:**
 
