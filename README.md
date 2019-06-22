@@ -6,11 +6,11 @@ AnyConnect为思科推出的VPN客户端，目前已有Windows、Android、iOS�
 
 ## Anyconnect的代替
 
-服务器端的代替： ocserv  (on linux)
+服务器端的代替： ocserv (openconnect server on linux)
 
 客户端的代替：  openconnect  (on linux, windows, and Mac )
 
-## ocserv linux安装
+## ocserv linux(Debian)安装
 
 ### 安装:
 
@@ -20,8 +20,11 @@ AnyConnect为思科推出的VPN客户端，目前已有Windows、Android、iOS�
 >
 > ./ocserv.sh
 
+ocserv version: 0.12.3
 
 **also see:**
 
-https://github.com/lllvcs/ocserv
+[OCSERV: Openconnect VPN Server](http://ocserv.gitlab.io/www/index.html)
+
+[lllvcs/ocserv](https://github.com/lllvcs/ocserv)
 
