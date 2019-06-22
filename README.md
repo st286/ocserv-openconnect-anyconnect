@@ -14,7 +14,7 @@ AnyConnect为思科推出的VPN客户端，目前已有Windows、Android、iOS�
 
 ### 安装:
 
-> wget -N --no-check-certificate https://raw.githubusercontent.com/lllvcs/ocserv/master/ocserv.sh
+> wget -N --no-check-certificate https://raw.githubusercontent.com/st286/ocserv-openconnect-anyconnect/master/ocserv.sh
 >
 > chmod +x ./ocserv.sh
 >
@@ -27,4 +27,14 @@ ocserv version: 0.12.3
 [OCSERV: Openconnect VPN Server](http://ocserv.gitlab.io/www/index.html)
 
 [lllvcs/ocserv](https://github.com/lllvcs/ocserv)
+
+## openconnect客户端
+
+**for macOS:**
+
+>  brew install openconnect
+
+**for other OS also see:**
+
+[使用openconnect代替cisco anyconnect](https://segmentfault.com/a/1190000011530974)
 
