@@ -16,7 +16,7 @@ OpenConnect是一个开源软件应用程序，用于连接虚拟专用网络（
 
 [Openconnect VPN project](https://github.com/openconnect)
 
-[OCSERV: Openconnect VPN Server]((http://ocserv.gitlab.io/www/index.html)
+[OCSERV: Openconnect VPN Server](http://ocserv.gitlab.io/www/index.html)
 
 
 ## Anyconnect的代替: openconnect(client), ocserv(server) 
