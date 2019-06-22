@@ -47,13 +47,15 @@ OpenConnect是一个开源软件应用程序，用于连接虚拟专用网络（
 >
 > ./ocserv.sh
 
-ocserv version: 0.12.3。 上面的脚本，适应于Debian, ubuntu
+ocserv version: 0.12.3
 
 **also see:**
 
 [lllvcs/ocserv](https://github.com/lllvcs/ocserv)
 
+**上面的脚本，适应于Debian, ubuntu. 对于Centos，参考:**
 
+[chendong12/ocserv](https://github.com/chendong12/ocserv)
 
 ## openconnect客户端
 
