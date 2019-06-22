@@ -12,6 +12,12 @@ OpenConnect是一个开源软件应用程序，用于连接虚拟专用网络（
 
 它最初是作为思科专有的AnyConnect SSL VPN客户端的开源替代品，由几个思科路由器支持。 截至2013年，OpenConnect项目还提供与AnyConnect兼容的服务器ocserv ，从而提供完整的"客户端--服务器"VPN解决方案。
 
+**also see:**
+
+[Openconnect VPN project](https://github.com/openconnect)
+
+[OCSERV: Openconnect VPN Server]((http://ocserv.gitlab.io/www/index.html)
+
 
 ## Anyconnect的代替: openconnect(client), ocserv(server) 
 
@@ -41,11 +47,13 @@ OpenConnect是一个开源软件应用程序，用于连接虚拟专用网络（
 >
 > ./ocserv.sh
 
-ocserv version: 0.12.3
+ocserv version: 0.12.3。 上面的脚本，适应于Debian, ubuntu
 
 **also see:**
 
 [lllvcs/ocserv](https://github.com/lllvcs/ocserv)
+
+
 
 ## openconnect客户端
 
