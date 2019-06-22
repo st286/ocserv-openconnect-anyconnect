@@ -12,5 +12,14 @@ AnyConnect为思科推出的VPN客户端，目前已有Windows、Android、iOS�
 
 ## ocserv linux安装
 
+### 安装:
+
+> wget -N --no-check-certificate https://raw.githubusercontent.com/lllvcs/ocserv/master/ocserv.sh
+> chmod +x ./ocserv.sh
+> ./ocserv.sh
+
+
+**also see:**
 
 https://github.com/lllvcs/ocserv
+
