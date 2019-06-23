@@ -231,13 +231,13 @@ Set_ocserv(){
 }
 Set_username(){
 	echo "请输入 要添加的VPN账号 用户名"
-	read -e -p "(默认: admin):" username
+	read -e -p "(默认: name-of-user):" username
 	[[ -z "${username}" ]] && username="name-of-user"
 	echo && echo -e "	用户名 : ${Red_font_prefix}${username}${Font_color_suffix}" && echo
 }
 Set_passwd(){
 	echo "请输入 要添加的VPN账号 密码"
-	read -e -p "(默认: doub.io):" userpass
+	read -e -p "(默认: your-passcode):" userpass
 	[[ -z "${userpass}" ]] && userpass="your-passcode"
 	echo && echo -e "	密码 : ${Red_font_prefix}${userpass}${Font_color_suffix}" && echo
 }
