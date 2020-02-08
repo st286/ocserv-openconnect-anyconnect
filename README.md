@@ -47,7 +47,7 @@ OpenConnect是一个开源软件应用程序，用于连接虚拟专用网络（
 >
 > ./ocserv.sh
 
-ocserv version: 0.12.3
+ocserv version: 0.12.6
 
 **also see:**
 
