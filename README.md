@@ -1,4 +1,4 @@
-# anyconnect->openconnect->ocserv
+# anyconnect (client) -> openconnect -> ocserv (server)
 cisco anyconnect vpn,  server, client
 ---
 
